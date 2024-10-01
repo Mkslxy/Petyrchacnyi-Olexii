@@ -172,3 +172,5 @@ I'm Kazimir Vitaliy and I'm very excited to learn web-technologies)
 ## Hi!
 
 My name is Vadim and I really enjoyed working with Git. It's a really user-friendly environment for programmers.
+## Hi!
+My name is Olexii and i really enjoyed Git. It's really useful and interest!
